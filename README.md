@@ -1,0 +1,2 @@
+- A sleek and user-friendly desktop application built using Python and PyQt5 that fetches real-time weather data from the OpenWeatherMap API. 
+- Users can input any city name to view current weather conditions, including temperature, humidity, wind speed, and a short description of the weather.
